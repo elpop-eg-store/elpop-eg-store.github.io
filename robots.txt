@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elpop-eg-store.github.io/sitemap.xml
